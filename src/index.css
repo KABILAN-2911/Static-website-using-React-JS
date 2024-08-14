@@ -1,0 +1,20 @@
+ 
+body {
+    
+    background-size: cover;
+    padding: 0px;
+    margin: 0px;
+    background-color:azure;
+  }
+
+  /* #nav1 {
+    opacity: 0.7;
+  } */
+
+  #hometext {
+    margin-top: 100px;
+    font-family: Brush Script MT;
+    font-size: 100px;
+    font-style: oblique;
+    opacity: 0.7;
+  }
